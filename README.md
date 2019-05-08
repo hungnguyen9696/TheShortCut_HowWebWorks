@@ -55,7 +55,7 @@ Links to particular files or subdirectories may be further specified after the d
 
 #### What is Website?
 
-Currently you are on our website Tutorialspoint.com which is a collection of various pages written in HTML markup language. This is a location on the web where people can find tutorials on latest technologies. Similarly, there are millions of websites available on the web.
+A collection of various pages written in HTML markup language.
 
 Each page available on the website is called a web page and first page of any website is called home page for that site.
 
@@ -63,17 +63,13 @@ Each page available on the website is called a web page and first page of any we
 
 Every Website sits on a computer known as a Web server. This server is always connected to the internet. Every Web server that is connected to the Internet is given a unique address made up of a series of four numbers between 0 and 256 separated by periods. For example, 68.178.157.132 or 68.122.35.127.
 
-When you register a Web address, also known as a domain name, such as tutorialspoint.com you have to specify the IP address of the Web server that will host the site.
-
-We will see different type of Web servers in a separate chapter.
+When you register a Web address, also known as a domain name, such as github.com you have to specify the IP address of the Web server that will host the site.
 
 #### What is Web Browser?
 
-Web Browsers are software installed on your PC. To access the Web you need a web browsers, such as Netscape Navigator, Microsoft Internet Explorer or Mozilla Firefox.
+Web Browsers are software installed on your PC. To access the Web you need a web browsers, such as Google Chrome, Microsoft Internet Explorer or Mozilla Firefox.
 
-Currently you must be using any sort of Web browser while you are navigating through my site tutorialspoint.com. On the Web, when you navigate through pages of information this is commonly known as browsing or surfing.
-
-We will see different type of Web browsers in a separate chapter.
+Currently you must be using any sort of Web browser while you are navigating through my site github.com. On the Web, when you navigate through pages of information this is commonly known as browsing or surfing.
 
 #### What is SMTP Server?
 
